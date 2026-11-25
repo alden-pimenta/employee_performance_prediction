@@ -1,0 +1,54 @@
+,Permutation importance (macro-F1 drop),Std
+EmpEnvironmentSatisfaction,0.2939,0.0404
+EmpLastSalaryHikePercent,0.2686,0.0217
+YearsSinceLastPromotion,0.0996,0.0263
+EmpDepartment_Development,0.0755,0.0184
+ExperienceYearsInCurrentRole,0.0547,0.016
+EmpWorkLifeBalance,0.0166,0.0089
+EmpJobRole_Developer,0.0014,0.0034
+ExperienceYearsAtThisCompany,0.0007,0.0021
+EmpJobInvolvement,0.0006,0.0017
+EmpJobRole_Finance Manager,0.0006,0.0017
+EmpJobSatisfaction,0.0005,0.0024
+TotalWorkExperienceInYears,0.0005,0.0024
+EmpJobRole_Research Director,0.0003,0.0013
+EmpJobRole_Healthcare Representative,0.0,0.0
+EmpJobRole_Human Resources,0.0,0.0
+EmpJobRole_Laboratory Technician,0.0,0.0
+EmpJobRole_Manager,0.0,0.0
+EmpJobRole_Manager R&D,0.0,0.0
+EmpJobRole_Manufacturing Director,0.0,0.0
+EmpJobRole_Senior Developer,0.0,0.0
+EmpJobRole_Research Scientist,0.0,0.0
+EmpJobRole_Sales Executive,0.0,0.0
+BusinessTravelFrequency_Travel_Frequently,0.0,0.0
+OverTime_Yes,0.0,0.0
+EmpJobRole_Data Scientist,0.0,0.0
+EmpJobRole_Senior Manager R&D,0.0,0.0
+EmpJobRole_Technical Architect,0.0,0.0
+BusinessTravelFrequency_Travel_Rarely,0.0,0.0
+EmpJobRole_Technical Lead,0.0,0.0
+EmpJobRole_Delivery Manager,0.0,0.0
+Attrition_Yes,0.0,0.0
+EmpDepartment_Sales,0.0,0.0
+EducationBackground_Medical,0.0,0.0
+EmpEducationLevel,0.0,0.0
+EmpJobLevel,0.0,0.0
+EmpRelationshipSatisfaction,0.0,0.0
+Gender_Male,0.0,0.0
+EmpDepartment_Research & Development,0.0,0.0
+EducationBackground_Marketing,0.0,0.0
+EducationBackground_Life Sciences,0.0,0.0
+EducationBackground_Other,0.0,0.0
+EducationBackground_Technical Degree,0.0,0.0
+MaritalStatus_Married,0.0,0.0
+MaritalStatus_Single,0.0,0.0
+EmpDepartment_Finance,0.0,0.0
+EmpDepartment_Human Resources,0.0,0.0
+EmpJobRole_Sales Representative,-0.0004,0.0016
+YearsWithCurrManager,-0.0019,0.0034
+TrainingTimesLastYear,-0.0026,0.0035
+DistanceFromHome,-0.0036,0.0036
+Age,-0.0036,0.0021
+NumCompaniesWorked,-0.0064,0.0021
+EmpHourlyRate,-0.0097,0.0043

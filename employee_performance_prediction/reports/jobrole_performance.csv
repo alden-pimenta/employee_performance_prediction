@@ -1,0 +1,22 @@
+EmpDepartment,EmpJobRole,mean,n,pct_rated_2
+Finance,Finance Manager,2.78,49,30.6
+Research & Development,Senior Manager R&D,2.8,15,26.7
+Research & Development,Healthcare Representative,2.85,33,24.2
+Research & Development,Laboratory Technician,2.86,64,21.9
+Sales,Sales Executive,2.86,270,23.7
+Sales,Sales Representative,2.87,69,17.4
+Sales,Manager,2.88,34,32.4
+Research & Development,Research Director,2.89,19,26.3
+Human Resources,Human Resources,2.91,45,20.0
+Research & Development,Manager R&D,2.94,94,18.1
+Research & Development,Research Scientist,2.96,77,22.1
+Research & Development,Manufacturing Director,2.97,33,9.1
+Development,Senior Developer,3.0,52,11.5
+Human Resources,Manager,3.0,9,11.1
+Development,Delivery Manager,3.0,12,0.0
+Development,Technical Architect,3.0,7,0.0
+Data Science,Data Scientist,3.05,20,5.0
+Development,Technical Lead,3.08,38,2.6
+Development,Developer,3.11,236,2.5
+Development,Business Analyst,3.19,16,0.0
+Research & Development,Manager,3.25,8,0.0

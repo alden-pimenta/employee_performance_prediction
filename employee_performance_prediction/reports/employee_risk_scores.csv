@@ -1,0 +1,1201 @@
+EmpNumber,EmpDepartment,EmpJobRole,PerformanceRating,EmpEnvironmentSatisfaction,EmpLastSalaryHikePercent,YearsSinceLastPromotion,Predicted,P(rating 2)
+E1001731,Sales,Sales Executive,2,1,18,9,2,0.889
+E1001545,Sales,Manager,2,2,11,3,2,0.889
+E1002018,Sales,Manager,2,2,14,12,2,0.889
+E100561,Sales,Sales Executive,2,2,22,1,2,0.887
+E1002319,Sales,Sales Executive,2,1,11,1,2,0.886
+E100878,Sales,Sales Executive,2,2,11,6,2,0.885
+E1001761,Research & Development,Research Scientist,2,2,24,2,2,0.884
+E1001874,Finance,Finance Manager,2,2,17,6,2,0.882
+E1002293,Research & Development,Research Director,2,2,12,1,2,0.882
+E1002102,Sales,Manager,2,2,22,14,2,0.881
+E1002141,Sales,Sales Executive,2,1,12,2,2,0.881
+E1002166,Research & Development,Manufacturing Director,2,2,13,3,2,0.881
+E1001821,Research & Development,Research Scientist,2,1,17,3,2,0.879
+E1002056,Human Resources,Human Resources,2,2,13,1,2,0.879
+E100870,Sales,Sales Executive,2,2,14,9,2,0.879
+E1001633,Sales,Sales Executive,2,2,15,1,2,0.879
+E1001899,Finance,Finance Manager,2,2,11,1,2,0.877
+E1002292,Research & Development,Research Scientist,2,1,13,1,2,0.875
+E1002107,Research & Development,Healthcare Representative,2,2,12,7,2,0.875
+E1001979,Research & Development,Research Scientist,2,2,12,8,2,0.872
+E1001840,Sales,Sales Executive,2,2,11,6,2,0.871
+E100903,Sales,Manager,2,2,16,11,2,0.87
+E1001522,Research & Development,Manager R&D,2,1,14,6,2,0.869
+E1001379,Research & Development,Research Scientist,2,1,22,3,2,0.869
+E100875,Sales,Manager,2,1,23,7,2,0.869
+E1001577,Research & Development,Laboratory Technician,2,2,13,7,2,0.869
+E100589,Sales,Sales Representative,2,1,17,5,2,0.869
+E100759,Sales,Sales Executive,2,1,11,1,2,0.868
+E1001444,Research & Development,Research Director,2,2,17,2,2,0.868
+E100873,Sales,Sales Executive,2,2,14,6,2,0.868
+E1001516,Research & Development,Research Scientist,2,1,13,4,2,0.868
+E1002082,Research & Development,Manager R&D,2,2,14,1,2,0.867
+E100805,Sales,Sales Executive,2,2,11,1,2,0.867
+E1001713,Research & Development,Laboratory Technician,2,1,16,1,2,0.867
+E1001360,Research & Development,Senior Manager R&D,2,2,12,1,2,0.866
+E1002170,Research & Development,Manager R&D,2,1,11,11,2,0.866
+E100630,Data Science,Data Scientist,2,1,19,3,2,0.865
+E1002062,Sales,Sales Executive,2,1,14,5,2,0.865
+E100403,Sales,Sales Executive,2,2,16,5,2,0.865
+E1002253,Sales,Sales Executive,2,2,12,11,2,0.864
+E100352,Sales,Sales Executive,2,2,22,1,2,0.864
+E1001395,Sales,Sales Executive,2,2,13,4,2,0.864
+E1001655,Research & Development,Laboratory Technician,2,2,13,7,2,0.863
+E100485,Sales,Sales Executive,2,2,14,3,2,0.862
+E1002287,Research & Development,Healthcare Representative,2,2,13,8,2,0.862
+E1002271,Research & Development,Manager R&D,2,1,23,12,2,0.862
+E100441,Sales,Sales Executive,2,2,18,7,2,0.862
+E1001402,Sales,Manager,2,1,12,4,2,0.862
+E1001918,Finance,Finance Manager,2,2,11,7,2,0.862
+E100665,Sales,Sales Executive,2,2,25,11,2,0.862
+E100359,Sales,Sales Executive,2,1,11,7,2,0.861
+E1001313,Research & Development,Research Director,2,2,22,5,2,0.86
+E1002142,Sales,Sales Representative,2,2,21,5,2,0.86
+E1001555,Sales,Manager,2,1,16,1,2,0.86
+E1001316,Sales,Manager,2,1,15,6,2,0.86
+E1001763,Research & Development,Research Director,2,2,14,6,2,0.859
+E100922,Human Resources,Manager,2,1,11,10,2,0.859
+E1002083,Human Resources,Human Resources,2,1,13,3,2,0.859
+E1001650,Sales,Sales Executive,2,1,17,3,2,0.859
+E1001831,Research & Development,Healthcare Representative,2,1,12,7,2,0.859
+E100301,Sales,Manager,2,1,16,3,2,0.858
+E1002264,Sales,Sales Executive,2,2,14,5,2,0.858
+E1001485,Human Resources,Human Resources,2,2,13,1,2,0.857
+E1002228,Sales,Sales Executive,2,1,21,2,2,0.856
+E1002302,Sales,Sales Executive,2,1,19,3,2,0.856
+E1001886,Finance,Finance Manager,2,2,14,1,2,0.855
+E1002127,Sales,Sales Executive,2,1,20,7,2,0.855
+E100338,Sales,Sales Executive,2,2,20,8,2,0.855
+E1002335,Research & Development,Manufacturing Director,2,2,19,1,2,0.854
+E1001911,Finance,Finance Manager,2,1,13,3,2,0.854
+E1001640,Sales,Sales Executive,2,1,16,6,2,0.853
+E1001653,Research & Development,Manager R&D,2,2,20,11,2,0.853
+E1001758,Research & Development,Laboratory Technician,2,1,13,5,2,0.853
+E1001597,Sales,Sales Executive,2,2,19,7,2,0.851
+E1001524,Research & Development,Manager R&D,2,1,13,7,2,0.851
+E100574,Data Science,Data Scientist,3,2,16,4,2,0.85
+E100762,Sales,Sales Representative,2,1,24,2,2,0.849
+E1001798,Research & Development,Manager R&D,2,2,20,1,2,0.849
+E100766,Sales,Sales Executive,2,1,18,7,2,0.847
+E1002101,Sales,Sales Executive,2,2,21,4,2,0.847
+E1001322,Sales,Sales Representative,2,2,19,2,2,0.847
+E1001884,Finance,Finance Manager,2,2,15,12,2,0.847
+E1001680,Research & Development,Research Scientist,2,1,14,1,2,0.846
+E1001858,Research & Development,Manager R&D,2,2,17,2,2,0.846
+E100522,Sales,Sales Executive,2,2,25,15,2,0.846
+E100931,Sales,Sales Executive,2,1,22,5,2,0.846
+E1002207,Sales,Sales Executive,2,1,19,1,2,0.844
+E1001767,Sales,Sales Executive,2,1,23,10,2,0.844
+E100756,Sales,Sales Representative,2,1,11,1,2,0.842
+E1002158,Sales,Sales Executive,2,2,13,1,2,0.842
+E1001827,Research & Development,Laboratory Technician,2,2,12,5,2,0.842
+E1001293,Research & Development,Research Director,2,2,12,1,2,0.84
+E1001943,Finance,Finance Manager,2,2,25,4,2,0.839
+E1001811,Research & Development,Laboratory Technician,2,1,14,1,2,0.839
+E1001751,Research & Development,Manager R&D,2,1,14,1,2,0.838
+E1001135,Sales,Sales Executive,3,2,14,4,2,0.837
+E1002194,Research & Development,Laboratory Technician,2,1,12,2,2,0.835
+E1001405,Research & Development,Healthcare Representative,2,1,11,11,2,0.835
+E1001394,Research & Development,Manager R&D,2,1,22,2,2,0.835
+E1001300,Research & Development,Healthcare Representative,2,1,13,2,2,0.835
+E100599,Human Resources,Human Resources,2,2,17,2,2,0.834
+E100506,Sales,Sales Executive,2,2,12,7,2,0.83
+E1002030,Sales,Sales Representative,2,2,13,2,2,0.83
+E1001129,Sales,Manager,3,1,14,4,2,0.829
+E1001887,Finance,Finance Manager,2,2,12,1,2,0.827
+E1001297,Research & Development,Laboratory Technician,2,2,15,1,2,0.826
+E1001305,Research & Development,Senior Manager R&D,2,1,18,2,2,0.826
+E1001306,Research & Development,Laboratory Technician,2,2,20,1,2,0.825
+E1002334,Sales,Sales Executive,2,2,11,9,2,0.825
+E1001974,Research & Development,Manager R&D,2,2,14,4,2,0.824
+E1002209,Research & Development,Manager R&D,2,2,11,1,2,0.824
+E1002305,Research & Development,Research Scientist,2,1,14,2,2,0.824
+E1002259,Research & Development,Healthcare Representative,2,2,12,1,2,0.824
+E1001372,Research & Development,Senior Manager R&D,2,1,19,1,2,0.823
+E1002011,Sales,Sales Executive,2,2,13,2,2,0.823
+E1001745,Human Resources,Human Resources,2,1,15,2,2,0.823
+E1002298,Research & Development,Research Scientist,2,2,12,1,2,0.823
+E1001832,Sales,Sales Representative,2,2,23,4,2,0.821
+E1001716,Research & Development,Research Scientist,2,1,12,1,2,0.821
+E1001890,Sales,Sales Executive,2,1,15,4,2,0.821
+E1001466,Sales,Sales Executive,2,1,13,1,2,0.82
+E100590,Sales,Sales Executive,2,2,14,4,2,0.82
+E1001331,Research & Development,Research Scientist,2,1,14,1,2,0.819
+E100461,Sales,Sales Executive,2,1,18,2,2,0.818
+E1001376,Human Resources,Human Resources,2,2,14,3,2,0.818
+E1001167,Sales,Sales Executive,3,2,14,5,2,0.817
+E1001441,Sales,Sales Executive,2,2,20,1,2,0.815
+E1002024,Human Resources,Human Resources,2,1,14,2,2,0.815
+E100811,Sales,Sales Executive,2,2,11,4,2,0.813
+E1001924,Finance,Finance Manager,2,1,13,1,2,0.813
+E1002274,Sales,Sales Representative,2,1,19,1,2,0.813
+E1001171,Sales,Sales Representative,3,2,19,1,2,0.812
+E1001557,Research & Development,Laboratory Technician,2,1,20,2,2,0.811
+E1001838,Sales,Sales Executive,2,1,13,2,2,0.81
+E1001370,Research & Development,Senior Manager R&D,2,1,20,11,2,0.809
+E1001315,Sales,Sales Executive,2,2,18,2,2,0.808
+E100607,Sales,Manager,2,1,18,15,2,0.808
+E1002291,Sales,Sales Representative,2,2,14,2,2,0.806
+E1001972,Finance,Finance Manager,2,1,12,1,2,0.806
+E1001677,Sales,Sales Executive,2,1,11,1,2,0.805
+E1001361,Research & Development,Laboratory Technician,2,1,16,1,2,0.804
+E1002091,Research & Development,Research Scientist,2,1,13,1,2,0.804
+E1001346,Research & Development,Research Scientist,2,1,13,1,2,0.804
+E1001586,Research & Development,Research Scientist,2,1,12,2,2,0.804
+E1001883,Finance,Finance Manager,2,2,14,1,2,0.803
+E1001717,Sales,Sales Representative,2,1,12,2,2,0.801
+E1001937,Finance,Finance Manager,2,1,11,1,2,0.8
+E100316,Sales,Manager,2,2,12,2,2,0.8
+E100453,Sales,Sales Executive,2,2,11,2,2,0.799
+E1001668,Sales,Sales Executive,2,1,12,1,2,0.799
+E1001967,Finance,Finance Manager,2,2,15,1,2,0.798
+E1002079,Sales,Sales Executive,2,2,15,2,2,0.794
+E1002246,Sales,Sales Executive,2,1,13,2,2,0.793
+E1001923,Sales,Sales Executive,2,1,14,2,2,0.792
+E1002247,Research & Development,Research Scientist,2,1,11,2,2,0.792
+E100483,Sales,Sales Representative,2,2,20,4,2,0.79
+E1002185,Research & Development,Manager R&D,2,1,16,1,2,0.79
+E1001669,Sales,Sales Executive,2,2,11,3,2,0.789
+E1002111,Sales,Sales Executive,2,1,14,2,2,0.787
+E100346,Sales,Sales Executive,2,2,21,1,2,0.787
+E1001774,Research & Development,Manager R&D,2,2,18,2,2,0.785
+E1001009,Human Resources,Manager,3,2,15,12,2,0.784
+E1002219,Research & Development,Manager R&D,2,2,15,4,2,0.784
+E1002003,Research & Development,Laboratory Technician,2,2,13,1,2,0.782
+E1001673,Sales,Sales Executive,2,2,13,1,2,0.782
+E1001428,Research & Development,Manufacturing Director,2,2,15,1,2,0.78
+E100919,Sales,Sales Executive,3,1,20,1,2,0.776
+E1002092,Research & Development,Healthcare Representative,2,2,12,1,2,0.775
+E100702,Human Resources,Human Resources,2,1,12,1,2,0.775
+E1002115,Research & Development,Manager R&D,2,1,14,2,2,0.774
+E1001010,Sales,Sales Executive,3,1,14,2,2,0.773
+E100990,Sales,Sales Executive,3,2,12,2,2,0.772
+E1001933,Finance,Finance Manager,2,1,16,1,2,0.769
+E1001685,Research & Development,Research Scientist,3,1,12,1,2,0.769
+E1001698,Research & Development,Manager R&D,3,1,20,1,2,0.768
+E1002346,Research & Development,Laboratory Technician,3,2,12,1,2,0.768
+E1001864,Research & Development,Manager R&D,2,2,18,1,2,0.766
+E1002134,Research & Development,Laboratory Technician,2,2,12,2,2,0.765
+E1001124,Sales,Sales Executive,3,2,20,7,2,0.752
+E1001063,Sales,Sales Executive,3,2,12,1,2,0.75
+E1001826,Sales,Sales Executive,2,1,12,7,2,0.747
+E100832,Sales,Sales Representative,3,1,16,1,2,0.737
+E1001219,Sales,Sales Representative,3,2,15,5,2,0.727
+E100791,Sales,Sales Executive,2,2,13,9,2,0.724
+E1001061,Sales,Sales Representative,3,2,13,3,2,0.723
+E1001868,Finance,Finance Manager,2,1,19,1,2,0.714
+E100998,Sales,Sales Executive,2,1,14,2,2,0.699
+E100869,Data Science,Data Scientist,3,2,17,2,2,0.665
+E1001396,Research & Development,Healthcare Representative,2,2,19,4,2,0.646
+E1001764,Sales,Sales Representative,2,1,15,1,2,0.598
+E1001708,Research & Development,Research Director,3,1,11,1,2,0.594
+E1001449,Sales,Sales Executive,4,2,13,1,2,0.571
+E100615,Development,Technical Lead,2,2,12,2,2,0.565
+E100902,Development,Senior Developer,2,1,11,1,2,0.515
+E100296,Development,Senior Developer,2,2,11,1,3,0.489
+E1001719,Research & Development,Manager R&D,4,1,22,1,2,0.486
+E100809,Development,Senior Developer,2,2,14,1,3,0.475
+E100279,Sales,Sales Executive,2,2,11,0,3,0.475
+E1001248,Sales,Sales Executive,2,1,11,11,3,0.473
+E100925,Development,Senior Developer,2,1,16,1,3,0.418
+E100298,Development,Senior Developer,2,2,11,8,3,0.402
+E1001442,Human Resources,Human Resources,2,3,17,1,3,0.391
+E100351,Development,Developer,2,1,12,8,3,0.391
+E100542,Development,Technical Lead,3,1,23,11,3,0.345
+E1002310,Research & Development,Laboratory Technician,2,4,11,9,3,0.333
+E100659,Development,Technical Lead,3,2,18,6,3,0.325
+E1001443,Sales,Sales Executive,2,4,13,3,3,0.325
+E100645,Data Science,Data Scientist,4,2,21,7,4,0.325
+E1001166,Development,Senior Developer,3,1,17,3,3,0.323
+E100681,Development,Developer,2,2,12,1,3,0.296
+E1002181,Research & Development,Healthcare Representative,3,2,15,2,3,0.293
+E100428,Development,Business Analyst,3,2,12,1,3,0.291
+E100961,Development,Senior Developer,3,2,12,8,3,0.286
+E100980,Development,Senior Developer,3,1,11,9,3,0.281
+E1002332,Research & Development,Research Scientist,2,4,14,0,3,0.28
+E100285,Development,Developer,2,1,12,2,3,0.277
+E100953,Development,Developer,3,1,20,2,3,0.277
+E1001523,Research & Development,Manufacturing Director,3,4,17,1,3,0.275
+E100356,Development,Developer,3,1,22,7,3,0.268
+E100660,Sales,Sales Executive,4,1,24,7,4,0.266
+E100928,Sales,Sales Executive,3,2,17,1,3,0.264
+E1001339,Research & Development,Senior Manager R&D,3,2,11,7,3,0.262
+E100968,Sales,Sales Executive,3,2,14,1,3,0.261
+E100294,Development,Developer,2,1,17,4,3,0.261
+E1001575,Research & Development,Laboratory Technician,3,2,14,7,3,0.259
+E100703,Development,Technical Lead,3,1,18,9,3,0.255
+E100388,Development,Business Analyst,3,1,15,1,3,0.255
+E100969,Development,Senior Developer,3,2,13,11,3,0.254
+E1001825,Research & Development,Healthcare Representative,3,4,14,13,3,0.254
+E100860,Development,Senior Developer,2,2,12,7,3,0.244
+E100807,Development,Senior Developer,3,2,15,10,3,0.244
+E100847,Development,Senior Developer,3,2,15,15,3,0.24
+E1001718,Research & Development,Manager R&D,3,3,14,1,3,0.233
+E1001115,Development,Developer,3,1,15,1,3,0.232
+E100547,Development,Developer,3,2,11,1,3,0.229
+E1002278,Research & Development,Research Scientist,2,3,18,5,3,0.225
+E100311,Development,Senior Developer,3,2,22,6,3,0.224
+E1001712,Research & Development,Manager R&D,3,2,14,1,3,0.221
+E1001175,Sales,Sales Executive,3,1,14,2,3,0.22
+E100449,Development,Developer,3,2,12,1,3,0.218
+E100366,Development,Developer,3,2,13,1,3,0.215
+E1001743,Research & Development,Manager R&D,3,2,18,1,3,0.212
+E100988,Development,Developer,3,2,18,2,3,0.198
+E100304,Development,Developer,3,1,18,1,3,0.196
+E1001070,Development,Developer,3,1,14,2,3,0.196
+E100862,Development,Developer,3,1,13,1,3,0.186
+E1002171,Research & Development,Research Scientist,3,2,13,1,3,0.182
+E100668,Development,Developer,3,1,13,3,3,0.177
+E100462,Human Resources,Human Resources,3,3,19,4,3,0.17
+E100662,Data Science,Data Scientist,3,3,20,1,3,0.168
+E100802,Development,Developer,3,2,12,3,3,0.166
+E1001075,Development,Developer,3,2,16,1,3,0.164
+E100827,Development,Developer,3,1,11,11,3,0.159
+E1001022,Development,Developer,3,1,14,1,3,0.159
+E1001050,Development,Developer,3,1,15,4,3,0.158
+E100384,Sales,Sales Executive,3,1,14,1,3,0.157
+E100606,Development,Developer,3,1,20,1,3,0.156
+E1002044,Research & Development,Healthcare Representative,3,2,16,1,3,0.156
+E100913,Development,Developer,3,2,12,4,3,0.155
+E1001081,Development,Developer,3,1,12,4,3,0.151
+E100416,Development,Developer,3,1,14,2,3,0.15
+E100440,Development,Developer,3,1,13,15,3,0.146
+E100647,Development,Developer,3,2,12,1,3,0.145
+E100628,Development,Developer,3,1,12,1,3,0.144
+E1001191,Development,Developer,3,2,13,7,3,0.144
+E100917,Development,Developer,3,2,11,1,3,0.144
+E100927,Development,Developer,3,2,13,1,3,0.143
+E100358,Development,Developer,3,2,12,13,3,0.141
+E1001812,Research & Development,Laboratory Technician,3,4,14,1,3,0.141
+E100314,Development,Developer,3,1,14,5,3,0.14
+E100309,Development,Developer,3,2,11,1,3,0.14
+E1002058,Sales,Sales Representative,3,2,13,1,3,0.139
+E100663,Development,Developer,2,1,14,1,3,0.137
+E1001183,Development,Developer,3,1,11,14,3,0.137
+E100306,Development,Developer,3,1,11,2,3,0.137
+E1001071,Development,Developer,3,2,12,1,3,0.136
+E100410,Development,Developer,3,2,12,1,3,0.136
+E100385,Development,Developer,3,2,12,1,3,0.133
+E1001019,Development,Developer,3,1,13,3,3,0.132
+E100798,Development,Developer,2,1,11,3,3,0.132
+E100800,Development,Developer,3,1,11,1,3,0.132
+E100505,Development,Developer,3,1,12,1,3,0.13
+E1001038,Human Resources,Human Resources,3,3,15,3,3,0.126
+E100545,Development,Developer,3,2,12,1,3,0.123
+E1001800,Research & Development,Research Scientist,3,1,13,0,3,0.122
+E1001042,Development,Developer,3,4,19,0,3,0.116
+E1001114,Development,Developer,3,2,13,7,3,0.115
+E1001807,Research & Development,Manager R&D,3,4,19,3,3,0.113
+E1002186,Sales,Sales Executive,2,3,16,1,3,0.112
+E1001239,Development,Developer,3,4,11,8,3,0.112
+E100901,Development,Developer,4,2,17,1,4,0.109
+E100398,Sales,Sales Executive,3,3,22,1,3,0.107
+E1001150,Development,Senior Developer,3,4,22,2,3,0.1
+E100824,Data Science,Data Scientist,3,4,13,1,3,0.098
+E1001414,Research & Development,Manager R&D,3,1,17,0,3,0.09
+E1001153,Development,Senior Developer,3,2,14,2,3,0.089
+E1002151,Research & Development,Research Scientist,3,2,20,0,3,0.083
+E1001210,Development,Senior Developer,3,4,21,2,3,0.079
+E100496,Development,Developer,3,4,18,2,3,0.068
+E100551,Development,Technical Lead,3,4,18,1,3,0.067
+E1002223,Sales,Sales Executive,2,2,16,0,3,0.067
+E1001326,Sales,Manager,3,2,14,0,3,0.067
+E100484,Development,Developer,3,2,18,0,3,0.066
+E100603,Development,Developer,3,3,13,0,3,0.064
+E100942,Development,Senior Developer,3,4,11,0,3,0.061
+E100381,Human Resources,Human Resources,3,2,22,0,3,0.058
+E100704,Development,Developer,3,3,18,2,3,0.057
+E100777,Development,Delivery Manager,3,2,24,0,3,0.056
+E100868,Human Resources,Human Resources,3,2,15,0,3,0.055
+E100609,Development,Developer,3,4,14,1,3,0.055
+E100853,Development,Senior Developer,3,1,13,0,3,0.054
+E1001497,Research & Development,Laboratory Technician,3,4,13,0,3,0.053
+E1001780,Research & Development,Manager R&D,3,1,11,0,3,0.052
+E100840,Development,Senior Developer,3,3,15,1,3,0.051
+E100501,Development,Developer,3,3,16,1,3,0.05
+E100425,Development,Developer,4,1,24,0,3,0.049
+E100822,Development,Developer,3,1,21,0,3,0.048
+E1001220,Development,Senior Developer,3,4,25,0,3,0.048
+E1002017,Sales,Sales Executive,3,4,13,0,3,0.047
+E1002322,Sales,Sales Executive,4,2,12,0,3,0.047
+E100508,Sales,Sales Executive,4,1,22,0,3,0.047
+E100780,Sales,Sales Executive,3,1,13,0,3,0.047
+E1001455,Research & Development,Manager R&D,3,1,22,0,3,0.043
+E100340,Sales,Sales Executive,3,1,21,0,3,0.041
+E1002227,Research & Development,Manager R&D,3,1,22,0,3,0.04
+E100406,Sales,Sales Executive,3,1,21,0,3,0.039
+E100731,Sales,Sales Executive,3,2,22,0,3,0.039
+E1001411,Research & Development,Manufacturing Director,3,1,20,0,3,0.038
+E1002312,Research & Development,Manufacturing Director,3,1,23,0,3,0.038
+E1002296,Sales,Sales Executive,3,1,22,0,3,0.038
+E1001156,Human Resources,Human Resources,3,1,21,0,3,0.038
+E1002113,Sales,Sales Representative,3,2,20,0,3,0.035
+E1001189,Development,Developer,3,1,24,0,3,0.035
+E1002027,Sales,Sales Executive,4,1,19,0,3,0.035
+E1002053,Research & Development,Manufacturing Director,3,1,20,0,3,0.035
+E1001152,Development,Developer,3,1,24,0,3,0.034
+E100838,Development,Senior Developer,3,1,22,0,3,0.034
+E1001639,Research & Development,Laboratory Technician,3,2,22,0,3,0.034
+E1002249,Research & Development,Healthcare Representative,3,1,17,0,3,0.034
+E1001689,Research & Development,Manager R&D,3,1,18,0,3,0.033
+E100900,Development,Developer,3,3,18,0,3,0.033
+E100619,Development,Technical Lead,4,1,17,0,3,0.033
+E1002168,Human Resources,Human Resources,4,2,21,0,3,0.033
+E100943,Human Resources,Human Resources,3,1,11,0,3,0.033
+E100565,Development,Technical Lead,3,4,14,0,3,0.032
+E1001925,Finance,Finance Manager,3,2,17,0,3,0.032
+E1002286,Research & Development,Research Scientist,3,2,19,0,3,0.032
+E1002218,Research & Development,Manager R&D,4,2,19,0,3,0.031
+E1001999,Research & Development,Laboratory Technician,3,2,14,0,3,0.031
+E100789,Development,Developer,3,1,13,1,3,0.031
+E1001661,Research & Development,Healthcare Representative,3,3,11,4,3,0.031
+E100812,Sales,Sales Executive,3,2,16,0,3,0.031
+E1001652,Research & Development,Research Scientist,3,1,20,0,3,0.031
+E1001885,Finance,Finance Manager,3,2,17,0,3,0.031
+E1001697,Human Resources,Human Resources,3,2,13,0,3,0.03
+E1001349,Research & Development,Senior Manager R&D,3,1,19,0,3,0.03
+E1002104,Research & Development,Laboratory Technician,3,2,16,0,3,0.03
+E1001268,Sales,Sales Executive,3,1,13,0,3,0.03
+E1001327,Human Resources,Human Resources,3,2,16,0,3,0.03
+E100776,Sales,Sales Executive,3,2,16,0,3,0.029
+E1002202,Sales,Sales Executive,3,2,14,0,3,0.029
+E100923,Sales,Sales Representative,3,2,11,0,3,0.029
+E1001703,Sales,Sales Executive,3,1,16,0,3,0.029
+E1001067,Sales,Sales Executive,3,1,15,0,3,0.029
+E100672,Data Science,Data Scientist,3,1,13,0,3,0.028
+E1001140,Sales,Sales Executive,3,1,18,0,3,0.028
+E1002200,Research & Development,Manager R&D,3,2,12,0,3,0.028
+E100898,Sales,Sales Executive,3,1,16,0,3,0.028
+E1001473,Research & Development,Manager R&D,3,1,19,0,3,0.028
+E100584,Development,Developer,3,2,14,0,3,0.028
+E1002176,Sales,Sales Executive,3,1,14,0,3,0.028
+E1002342,Research & Development,Manufacturing Director,3,2,20,0,3,0.028
+E1001920,Human Resources,Human Resources,3,1,11,0,3,0.028
+E100457,Development,Business Analyst,4,1,15,0,3,0.028
+E100882,Sales,Sales Executive,3,2,13,0,3,0.027
+E1001865,Research & Development,Healthcare Representative,3,1,16,0,3,0.027
+E1001960,Finance,Finance Manager,3,1,14,0,3,0.027
+E1001121,Development,Developer,3,2,24,1,3,0.027
+E100724,Sales,Sales Executive,4,2,14,0,3,0.027
+E100736,Sales,Sales Executive,3,2,18,0,3,0.027
+E1002042,Research & Development,Research Scientist,3,2,14,0,3,0.027
+E1001083,Sales,Sales Representative,3,1,16,0,3,0.027
+E1001498,Sales,Sales Executive,3,2,12,0,3,0.026
+E1001470,Research & Development,Manager R&D,3,2,13,0,3,0.026
+E100526,Sales,Sales Representative,3,2,22,0,3,0.026
+E100325,Sales,Sales Representative,3,1,14,0,3,0.026
+E1001263,Sales,Sales Executive,3,1,18,0,3,0.026
+E100499,Development,Developer,3,3,11,0,3,0.026
+E100323,Development,Developer,3,2,16,2,3,0.026
+E100690,Data Science,Data Scientist,3,2,19,0,3,0.026
+E100383,Development,Business Analyst,3,2,18,0,3,0.026
+E1001693,Research & Development,Laboratory Technician,3,1,11,0,3,0.026
+E1001726,Research & Development,Manager R&D,3,2,12,0,3,0.026
+E1001062,Development,Developer,3,1,18,0,3,0.026
+E1002117,Research & Development,Manager R&D,3,2,16,0,3,0.025
+E100717,Development,Technical Lead,3,1,16,0,3,0.025
+E1001381,Research & Development,Healthcare Representative,3,1,17,0,3,0.025
+E1001900,Finance,Finance Manager,3,2,21,0,3,0.025
+E1001097,Sales,Sales Executive,3,1,15,0,3,0.025
+E1001616,Human Resources,Manager,3,4,14,7,3,0.024
+E100456,Development,Developer,3,2,20,0,3,0.024
+E1001855,Research & Development,Research Scientist,3,1,13,0,3,0.024
+E1001385,Research & Development,Manager R&D,4,1,20,0,3,0.024
+E1002323,Sales,Sales Executive,3,2,13,0,3,0.024
+E1001435,Sales,Sales Executive,3,1,17,0,3,0.024
+E100825,Development,Developer,3,1,11,0,3,0.023
+E1001273,Development,Developer,3,2,18,0,3,0.023
+E1001738,Research & Development,Manager R&D,3,2,18,0,3,0.023
+E1001118,Sales,Sales Executive,3,3,18,7,3,0.023
+E100871,Development,Senior Developer,3,3,16,1,3,0.023
+E1001020,Development,Developer,3,1,14,0,3,0.022
+E1002245,Sales,Sales Executive,3,1,11,0,3,0.022
+E100637,Development,Technical Lead,3,2,20,0,3,0.022
+E100670,Development,Developer,3,4,22,0,3,0.022
+E1001945,Sales,Sales Executive,4,4,24,6,4,0.021
+E1002257,Research & Development,Research Director,4,3,20,4,4,0.021
+E1001260,Sales,Sales Executive,3,3,11,7,3,0.021
+E1002297,Sales,Sales Representative,3,1,15,0,3,0.021
+E1001563,Research & Development,Laboratory Technician,3,3,13,5,3,0.02
+E1001571,Sales,Sales Executive,3,4,14,15,3,0.02
+E1001288,Research & Development,Laboratory Technician,3,3,24,0,3,0.02
+E100611,Sales,Sales Executive,3,3,18,2,3,0.02
+E1001458,Research & Development,Research Scientist,3,3,13,0,3,0.02
+E100682,Sales,Sales Executive,3,3,14,4,3,0.02
+E100419,Development,Business Analyst,3,1,19,0,3,0.02
+E100995,Data Science,Data Scientist,3,4,14,7,3,0.02
+E100407,Sales,Sales Executive,4,2,15,0,4,0.02
+E1001592,Human Resources,Human Resources,3,4,12,5,3,0.02
+E100859,Development,Senior Developer,3,3,25,0,3,0.02
+E1001567,Human Resources,Human Resources,3,3,11,1,3,0.019
+E100363,Development,Business Analyst,4,2,13,0,3,0.019
+E100610,Data Science,Data Scientist,3,3,14,1,3,0.019
+E1002130,Research & Development,Laboratory Technician,3,4,13,3,3,0.019
+E100521,Development,Developer,4,2,22,1,4,0.019
+E1002295,Research & Development,Research Director,4,3,25,6,4,0.019
+E100816,Development,Developer,3,1,13,0,3,0.019
+E1001406,Research & Development,Manager R&D,3,3,14,4,3,0.019
+E1002009,Sales,Sales Executive,3,3,11,0,3,0.019
+E1002212,Research & Development,Manager R&D,3,3,18,1,3,0.019
+E1002189,Research & Development,Manager R&D,3,3,13,5,3,0.019
+E1001737,Research & Development,Manager R&D,3,3,11,4,3,0.019
+E1001503,Research & Development,Research Scientist,4,4,25,13,4,0.018
+E1001835,Sales,Sales Executive,3,3,14,7,3,0.018
+E100564,Development,Developer,3,2,13,1,3,0.018
+E1001700,Research & Development,Research Director,3,4,19,12,3,0.018
+E100355,Development,Business Analyst,3,1,18,0,3,0.018
+E1001035,Development,Developer,3,2,11,4,3,0.018
+E100658,Development,Developer,3,1,18,0,3,0.018
+E1001794,Research & Development,Manager,3,3,25,0,4,0.017
+E1002123,Sales,Sales Executive,4,3,22,5,4,0.017
+E1001479,Research & Development,Manager R&D,3,4,18,4,3,0.017
+E1001850,Research & Development,Manufacturing Director,3,3,16,1,3,0.017
+E1001681,Sales,Sales Executive,3,4,11,4,3,0.017
+E1002196,Research & Development,Manager R&D,3,3,18,7,3,0.017
+E1001969,Sales,Sales Representative,3,4,11,7,3,0.017
+E100754,Sales,Sales Executive,3,3,17,7,3,0.017
+E1001314,Sales,Sales Executive,3,2,12,0,3,0.017
+E100697,Development,Technical Lead,3,2,15,0,3,0.017
+E100977,Development,Developer,3,2,11,0,3,0.017
+E100436,Sales,Manager,3,3,12,4,3,0.017
+E100884,Sales,Sales Executive,3,4,19,3,3,0.017
+E1001805,Sales,Manager,3,3,12,5,3,0.017
+E1001227,Development,Developer,3,2,18,0,3,0.016
+E1001277,Development,Developer,3,1,17,0,3,0.016
+E100493,Sales,Sales Executive,3,3,11,2,3,0.016
+E1001542,Research & Development,Research Director,3,4,14,1,3,0.016
+E1001526,Research & Development,Research Scientist,4,1,25,0,4,0.016
+E1001282,Development,Developer,3,1,11,0,3,0.016
+E1001901,Finance,Finance Manager,3,3,18,2,3,0.016
+E1001302,Research & Development,Senior Manager R&D,3,3,14,4,3,0.016
+E100580,Sales,Sales Executive,3,4,12,12,3,0.016
+E1001352,Research & Development,Manager,4,3,15,6,3,0.016
+E1002034,Sales,Sales Executive,3,4,15,1,3,0.016
+E1001585,Research & Development,Manager,3,3,13,15,3,0.016
+E100409,Sales,Sales Executive,3,4,13,1,3,0.016
+E1001054,Sales,Manager,4,3,11,1,3,0.016
+E100698,Sales,Sales Executive,3,4,14,4,3,0.016
+E100396,Sales,Sales Executive,3,3,16,4,3,0.016
+E1001981,Research & Development,Healthcare Representative,3,3,19,6,3,0.016
+E1001959,Sales,Sales Executive,4,3,25,1,4,0.016
+E1001204,Development,Developer,3,2,19,0,3,0.015
+E1001259,Sales,Manager,3,3,13,15,3,0.015
+E100716,Sales,Sales Executive,3,4,12,1,3,0.015
+E100845,Sales,Sales Executive,3,3,11,7,3,0.015
+E1001006,Sales,Sales Executive,3,4,12,1,3,0.015
+E1002290,Research & Development,Laboratory Technician,3,1,19,0,3,0.015
+E1001934,Finance,Finance Manager,3,4,15,1,3,0.015
+E100641,Sales,Manager,3,3,12,7,3,0.015
+E1001317,Sales,Sales Executive,3,4,18,11,3,0.015
+E1001988,Sales,Sales Representative,3,3,15,6,3,0.015
+E1001351,Research & Development,Manufacturing Director,3,4,11,7,3,0.015
+E1002340,Research & Development,Healthcare Representative,3,4,15,1,3,0.015
+E1001445,Sales,Sales Executive,3,3,12,13,3,0.015
+E1001984,Sales,Sales Executive,3,4,17,8,3,0.015
+E100656,Sales,Sales Executive,4,3,14,0,3,0.015
+E100569,Sales,Sales Executive,3,4,11,9,3,0.015
+E1001366,Research & Development,Healthcare Representative,3,3,18,1,3,0.015
+E1001614,Research & Development,Manager,3,4,14,9,3,0.015
+E1002135,Research & Development,Manufacturing Director,3,4,14,4,3,0.015
+E1001638,Research & Development,Manufacturing Director,3,3,14,5,3,0.015
+E1001607,Sales,Sales Executive,3,3,13,11,3,0.015
+E100327,Sales,Sales Representative,3,4,13,2,3,0.015
+E1001202,Data Science,Data Scientist,3,3,17,4,3,0.015
+E1001387,Research & Development,Manager,3,4,17,13,3,0.015
+E1001590,Research & Development,Healthcare Representative,3,4,12,1,3,0.014
+E1001059,Sales,Sales Executive,4,3,23,1,4,0.014
+E1001132,Development,Developer,3,1,13,0,3,0.014
+E100894,Development,Developer,3,1,17,0,3,0.014
+E100877,Sales,Sales Executive,3,4,14,1,3,0.014
+E1001756,Sales,Sales Executive,3,4,18,3,3,0.014
+E1001746,Research & Development,Research Director,3,4,11,4,3,0.014
+E1001939,Finance,Finance Manager,3,3,19,2,3,0.014
+E1002267,Research & Development,Laboratory Technician,3,4,13,1,3,0.014
+E1002178,Research & Development,Manager,3,4,11,4,3,0.014
+E1001304,Research & Development,Manufacturing Director,3,4,16,11,3,0.014
+E100378,Sales,Sales Executive,3,3,14,2,3,0.014
+E1001784,Research & Development,Manager R&D,3,1,14,0,3,0.014
+E1001572,Research & Development,Manufacturing Director,3,3,11,5,3,0.014
+E100842,Development,Developer,3,2,18,0,3,0.014
+E1002254,Research & Development,Research Scientist,3,4,12,3,3,0.014
+E1001627,Sales,Sales Executive,3,3,17,1,3,0.014
+E1001634,Sales,Sales Executive,3,3,12,9,3,0.014
+E1001566,Research & Development,Manager R&D,3,3,14,14,3,0.014
+E1001576,Research & Development,Manufacturing Director,3,3,18,1,3,0.014
+E100342,Development,Developer,3,1,13,0,3,0.014
+E100334,Sales,Sales Executive,3,4,15,1,3,0.014
+E1001474,Research & Development,Manufacturing Director,3,4,13,3,3,0.014
+E100555,Development,Developer,3,4,17,2,3,0.014
+E1001875,Finance,Finance Manager,3,4,14,7,3,0.014
+E1002033,Research & Development,Research Scientist,3,4,14,1,3,0.014
+E1001903,Human Resources,Manager,3,4,11,1,3,0.014
+E1001936,Finance,Finance Manager,3,4,12,7,3,0.014
+E1001324,Research & Development,Senior Manager R&D,3,4,12,7,3,0.014
+E1001908,Finance,Finance Manager,3,3,12,2,3,0.014
+E1001499,Research & Development,Laboratory Technician,3,3,14,1,3,0.014
+E1002070,Research & Development,Research Scientist,3,3,12,2,3,0.014
+E100899,Sales,Sales Executive,3,4,12,5,3,0.014
+E1001944,Finance,Finance Manager,4,3,24,6,4,0.013
+E1001651,Research & Development,Manager R&D,3,4,12,15,3,0.013
+E1002263,Research & Development,Laboratory Technician,3,4,11,9,3,0.013
+E100836,Sales,Manager,3,3,14,1,3,0.013
+E1002049,Research & Development,Research Scientist,3,4,15,1,3,0.013
+E100455,Human Resources,Human Resources,4,3,23,5,4,0.013
+E1001860,Sales,Sales Executive,3,3,11,7,3,0.013
+E1001683,Research & Development,Research Scientist,3,4,13,7,3,0.013
+E1002260,Research & Development,Laboratory Technician,3,4,13,1,3,0.013
+E1001245,Sales,Sales Executive,3,3,11,3,3,0.013
+E1002314,Sales,Sales Executive,4,4,24,11,4,0.013
+E1001399,Research & Development,Manufacturing Director,3,4,17,1,3,0.013
+E1002032,Sales,Sales Executive,3,3,11,1,3,0.013
+E1001024,Sales,Sales Executive,3,4,12,11,3,0.013
+E100684,Sales,Sales Executive,3,3,15,6,3,0.013
+E100374,Development,Developer,3,2,17,0,3,0.013
+E100605,Sales,Manager,4,4,22,1,4,0.013
+E100976,Human Resources,Human Resources,3,3,15,7,3,0.013
+E100447,Development,Developer,3,3,14,2,3,0.013
+E1001496,Sales,Sales Executive,3,3,15,1,3,0.013
+E1002105,Research & Development,Manager R&D,3,3,12,14,3,0.013
+E100642,Development,Developer,3,1,11,0,3,0.013
+E1002273,Sales,Sales Executive,3,4,15,5,3,0.013
+E1001323,Sales,Manager,3,4,13,1,3,0.013
+E1002145,Research & Development,Manager R&D,3,4,12,12,3,0.012
+E100399,Sales,Sales Executive,3,3,12,2,3,0.012
+E1001792,Research & Development,Manager R&D,3,3,14,1,3,0.012
+E1001560,Sales,Manager,4,4,24,11,4,0.012
+E1001817,Research & Development,Research Director,3,3,13,13,3,0.012
+E1002068,Research & Development,Manager R&D,3,4,13,5,3,0.012
+E100699,Development,Developer,3,1,17,0,3,0.012
+E1001416,Sales,Sales Executive,3,4,17,2,3,0.012
+E1002015,Research & Development,Laboratory Technician,3,4,15,5,3,0.012
+E1001460,Research & Development,Manufacturing Director,3,3,18,6,3,0.012
+E1001463,Research & Development,Laboratory Technician,3,4,13,2,3,0.012
+E1001312,Research & Development,Healthcare Representative,3,3,14,6,3,0.012
+E1001987,Research & Development,Manager R&D,3,4,17,1,3,0.012
+E100639,Sales,Sales Executive,3,4,18,7,3,0.012
+E100592,Sales,Sales Executive,4,3,14,0,3,0.012
+E100741,Sales,Sales Executive,3,4,14,1,3,0.012
+E1002031,Research & Development,Healthcare Representative,3,4,12,0,3,0.012
+E1002210,Research & Development,Research Scientist,3,3,15,6,3,0.012
+E1002226,Research & Development,Research Scientist,3,3,13,2,3,0.012
+E1001025,Sales,Sales Executive,4,3,23,7,4,0.012
+E1001030,Development,Developer,3,3,12,2,3,0.012
+E1001397,Sales,Sales Executive,3,3,14,2,3,0.012
+E1001398,Research & Development,Manager R&D,4,3,22,1,4,0.012
+E1002304,Research & Development,Healthcare Representative,4,3,21,1,4,0.012
+E1002285,Research & Development,Research Scientist,3,4,12,1,3,0.012
+E1002313,Sales,Sales Executive,4,4,21,1,4,0.012
+E100714,Sales,Sales Executive,3,3,11,11,3,0.012
+E100858,Sales,Sales Executive,3,3,19,1,3,0.012
+E1001106,Development,Developer,3,3,17,2,3,0.012
+E1001181,Sales,Sales Executive,4,3,22,7,4,0.012
+E1001078,Sales,Sales Executive,3,3,19,1,3,0.012
+E100957,Development,Developer,3,1,12,0,3,0.012
+E100933,Development,Developer,3,1,12,0,3,0.012
+E1001074,Sales,Sales Executive,3,4,17,1,3,0.011
+E100430,Sales,Sales Executive,3,3,12,1,3,0.011
+E1001727,Research & Development,Laboratory Technician,3,3,11,0,3,0.011
+E100794,Sales,Sales Executive,3,4,12,1,3,0.011
+E1002229,Sales,Sales Executive,3,4,18,1,3,0.011
+E1001348,Sales,Sales Executive,3,3,11,7,3,0.011
+E1001469,Research & Development,Manager,3,4,13,4,3,0.011
+E1001646,Research & Development,Manager R&D,4,4,15,0,4,0.011
+E1001787,Research & Development,Laboratory Technician,4,3,25,1,4,0.011
+E100494,Sales,Sales Representative,3,3,18,1,3,0.011
+E1001212,Development,Developer,3,2,14,1,3,0.011
+E1001384,Research & Development,Manager R&D,3,4,15,5,3,0.011
+E1001582,Sales,Sales Executive,3,3,15,0,3,0.011
+E1001561,Research & Development,Manager R&D,3,4,12,5,3,0.011
+E1001856,Sales,Manager,4,3,21,2,4,0.011
+E100518,Sales,Sales Executive,3,3,11,0,3,0.011
+E100732,Development,Developer,3,2,11,0,3,0.011
+E1002093,Sales,Sales Executive,3,3,13,13,3,0.011
+E1002000,Human Resources,Human Resources,3,3,19,1,3,0.011
+E1002014,Research & Development,Manufacturing Director,4,4,20,1,4,0.011
+E1001990,Research & Development,Manager R&D,4,3,23,14,4,0.011
+E1001325,Sales,Sales Executive,3,2,11,0,3,0.011
+E1001321,Research & Development,Manufacturing Director,3,4,13,2,3,0.011
+E1001971,Finance,Finance Manager,4,4,20,5,4,0.011
+E1002329,Research & Development,Research Scientist,3,3,14,0,3,0.011
+E1002318,Human Resources,Human Resources,3,3,16,1,3,0.011
+E1001457,Sales,Sales Executive,3,3,18,1,3,0.011
+E100472,Development,Developer,3,1,14,0,3,0.011
+E100843,Development,Developer,3,3,16,1,3,0.011
+E1001016,Sales,Sales Representative,3,4,15,2,3,0.011
+E1002108,Research & Development,Research Scientist,3,4,15,1,3,0.011
+E1001622,Research & Development,Healthcare Representative,3,4,11,1,3,0.011
+E1001587,Research & Development,Manager R&D,3,4,18,1,3,0.011
+E1002303,Research & Development,Manufacturing Director,3,4,13,0,3,0.01
+E1002281,Research & Development,Research Director,3,4,11,2,3,0.01
+E1002276,Research & Development,Research Scientist,3,4,17,1,3,0.01
+E1001344,Sales,Sales Executive,3,3,14,7,3,0.01
+E1001188,Human Resources,Human Resources,3,4,11,0,3,0.01
+E1002248,Research & Development,Manager R&D,4,4,20,2,4,0.01
+E1001120,Sales,Sales Executive,3,3,16,7,3,0.01
+E1001752,Research & Development,Research Scientist,4,3,14,1,3,0.01
+E1001593,Research & Development,Manager R&D,3,3,11,7,3,0.01
+E100438,Sales,Sales Executive,3,3,13,0,3,0.01
+E1001757,Sales,Sales Executive,3,4,15,2,3,0.01
+E100983,Development,Developer,4,1,16,0,4,0.01
+E1001123,Development,Developer,4,3,21,1,4,0.01
+E1001711,Research & Development,Research Scientist,3,1,12,0,3,0.01
+E1001007,Sales,Sales Executive,4,4,21,1,4,0.01
+E1002251,Human Resources,Manager,3,3,18,1,3,0.01
+E1002230,Research & Development,Laboratory Technician,3,3,13,7,3,0.01
+E1002225,Research & Development,Manager R&D,3,3,14,1,3,0.01
+E100844,Human Resources,Human Resources,3,1,12,0,3,0.01
+E1001157,Sales,Sales Executive,3,3,18,0,3,0.01
+E1002029,Research & Development,Manager R&D,3,3,11,1,3,0.01
+E1002327,Research & Development,Research Scientist,3,3,14,0,3,0.01
+E1001961,Human Resources,Human Resources,3,3,18,2,3,0.01
+E1001978,Sales,Sales Executive,3,3,14,1,3,0.01
+E1002316,Research & Development,Research Scientist,3,4,14,1,3,0.01
+E1001439,Research & Development,Healthcare Representative,3,3,13,1,3,0.01
+E1001926,Finance,Finance Manager,3,4,13,1,3,0.01
+E1001834,Sales,Sales Representative,4,3,21,1,4,0.01
+E1001828,Human Resources,Manager,4,3,21,7,4,0.01
+E1001518,Sales,Sales Executive,3,3,14,1,3,0.01
+E1001515,Research & Development,Manufacturing Director,4,3,21,7,4,0.01
+E1001303,Research & Development,Manufacturing Director,3,4,14,2,3,0.01
+E100734,Sales,Sales Executive,3,4,13,1,3,0.01
+E1002076,Research & Development,Research Scientist,3,4,19,7,3,0.01
+E1002012,Sales,Sales Executive,3,1,15,0,3,0.01
+E1002072,Human Resources,Human Resources,3,3,13,4,3,0.01
+E1001996,Research & Development,Laboratory Technician,3,4,15,0,3,0.01
+E1001962,Finance,Finance Manager,3,4,11,1,3,0.01
+E100621,Development,Developer,4,3,25,11,4,0.01
+E1002035,Sales,Sales Executive,3,4,12,0,3,0.01
+E1002025,Human Resources,Human Resources,3,3,11,1,3,0.01
+E1001916,Finance,Finance Manager,3,4,19,0,3,0.01
+E1001541,Research & Development,Research Director,4,4,12,0,3,0.01
+E1001866,Sales,Sales Executive,3,4,11,7,3,0.01
+E1001854,Research & Development,Manager R&D,3,3,12,7,3,0.01
+E1001482,Sales,Manager,4,3,23,15,4,0.01
+E1001358,Research & Development,Senior Manager R&D,4,4,23,1,4,0.01
+E1001462,Research & Development,Healthcare Representative,4,4,20,4,4,0.01
+E100330,Sales,Sales Executive,3,3,19,1,3,0.01
+E100313,Sales,Sales Executive,3,3,11,4,3,0.01
+E100292,Development,Developer,3,1,13,0,3,0.01
+E1001889,Finance,Finance Manager,3,3,14,1,3,0.01
+E1001265,Development,Senior Developer,3,3,19,2,3,0.01
+E1001602,Sales,Sales Executive,3,4,19,9,3,0.01
+E1002114,Sales,Sales Executive,3,3,13,1,3,0.01
+E1002132,Research & Development,Research Scientist,4,3,22,3,4,0.01
+E1001270,Sales,Manager,3,4,11,6,3,0.01
+E1001208,Development,Developer,3,3,18,2,3,0.01
+E1001011,Development,Developer,4,4,21,1,4,0.009
+E1001180,Development,Developer,3,4,13,2,3,0.009
+E1002140,Sales,Sales Executive,3,3,12,2,3,0.009
+E1002233,Research & Development,Manager R&D,3,3,18,1,3,0.009
+E1002137,Research & Development,Healthcare Representative,3,4,17,1,3,0.009
+E1002136,Human Resources,Human Resources,3,3,15,2,3,0.009
+E1002258,Research & Development,Manufacturing Director,3,3,19,1,3,0.009
+E1001997,Research & Development,Manager R&D,3,4,11,8,3,0.009
+E100771,Development,Developer,3,3,16,2,3,0.009
+E100679,Sales,Sales Executive,3,4,12,7,3,0.009
+E100677,Sales,Sales Representative,3,4,11,2,3,0.009
+E1002326,Research & Development,Research Scientist,3,3,14,2,3,0.009
+E1002330,Research & Development,Research Scientist,3,3,12,1,3,0.009
+E1001338,Research & Development,Senior Manager R&D,3,3,16,2,3,0.009
+E1001952,Finance,Finance Manager,3,4,16,2,3,0.009
+E1001296,Research & Development,Senior Manager R&D,3,4,12,1,3,0.009
+E1001919,Finance,Finance Manager,3,3,15,3,3,0.009
+E1001830,Research & Development,Manager R&D,3,4,18,2,3,0.009
+E1001841,Human Resources,Human Resources,3,3,11,1,3,0.009
+E100286,Development,Senior Developer,3,4,13,3,3,0.009
+E1001893,Finance,Finance Manager,3,3,13,7,3,0.009
+E1001892,Finance,Finance Manager,3,3,12,1,3,0.009
+E100725,Data Science,Data Scientist,3,4,11,1,3,0.009
+E1002299,Sales,Sales Representative,3,3,11,1,3,0.009
+E1002080,Research & Development,Laboratory Technician,3,3,17,0,3,0.009
+E1002067,Research & Development,Research Director,3,3,17,2,3,0.009
+E1002057,Sales,Sales Executive,3,4,12,2,3,0.009
+E1002288,Research & Development,Laboratory Technician,3,3,13,4,3,0.009
+E100779,Development,Developer,3,4,13,2,3,0.009
+E1001318,Sales,Sales Executive,3,4,12,0,3,0.009
+E1001413,Sales,Sales Representative,3,3,12,2,3,0.009
+E100559,Development,Developer,3,3,15,3,3,0.009
+E1001581,Research & Development,Research Scientist,3,4,18,2,3,0.009
+E1001579,Research & Development,Research Scientist,3,4,11,1,3,0.009
+E1001574,Research & Development,Laboratory Technician,3,4,12,2,3,0.009
+E1001595,Research & Development,Manager R&D,3,4,11,1,3,0.009
+E1001596,Sales,Sales Executive,3,4,12,1,3,0.009
+E1001628,Research & Development,Research Scientist,3,3,11,1,3,0.009
+E1001584,Research & Development,Manager,4,2,22,0,4,0.009
+E1001686,Human Resources,Manager,3,3,14,0,3,0.009
+E1001553,Research & Development,Research Scientist,4,3,20,2,4,0.009
+E1001701,Research & Development,Manager R&D,4,4,21,1,4,0.009
+E100601,Sales,Manager,3,4,11,0,3,0.009
+E1001512,Research & Development,Laboratory Technician,4,3,20,2,4,0.009
+E1001753,Research & Development,Manager R&D,3,4,13,1,3,0.009
+E1001813,Sales,Sales Executive,3,4,14,8,3,0.009
+E1001509,Human Resources,Human Resources,4,4,16,0,3,0.009
+E1002161,Research & Development,Laboratory Technician,3,4,14,1,3,0.009
+E1002187,Sales,Sales Executive,4,3,21,1,4,0.009
+E100947,Sales,Sales Representative,3,3,11,1,3,0.009
+E100949,Development,Senior Developer,3,4,12,0,3,0.009
+E100890,Development,Developer,3,1,19,0,3,0.009
+E1001064,Sales,Sales Executive,4,4,22,1,4,0.009
+E1001047,Development,Developer,3,4,17,2,3,0.009
+E1001044,Sales,Sales Representative,3,4,14,2,3,0.009
+E1001094,Development,Developer,3,2,11,0,3,0.009
+E1001104,Development,Senior Developer,3,4,13,2,3,0.009
+E100513,Sales,Sales Representative,4,3,21,0,4,0.009
+E1001690,Research & Development,Manufacturing Director,3,3,11,2,3,0.009
+E1001709,Research & Development,Research Scientist,3,4,14,1,3,0.009
+E1001705,Sales,Sales Representative,3,2,12,0,3,0.009
+E100426,Human Resources,Manager,3,4,12,4,3,0.009
+E1001636,Research & Development,Laboratory Technician,3,4,11,1,3,0.009
+E1001440,Research & Development,Research Scientist,3,4,13,2,3,0.009
+E100594,Development,Technical Lead,3,3,15,2,3,0.009
+E1001421,Research & Development,Research Scientist,3,4,14,1,3,0.009
+E1001870,Finance,Finance Manager,3,4,16,2,3,0.009
+E1001418,Research & Development,Manager R&D,3,4,11,0,3,0.009
+E1001846,Sales,Sales Executive,3,3,12,1,3,0.009
+E1001851,Research & Development,Manufacturing Director,3,3,11,1,3,0.009
+E1001438,Research & Development,Laboratory Technician,3,3,12,2,3,0.009
+E1001785,Sales,Sales Executive,3,3,14,1,3,0.009
+E100620,Development,Developer,3,1,11,0,3,0.009
+E1001374,Research & Development,Manager R&D,3,4,18,1,3,0.009
+E1001389,Research & Development,Manager R&D,3,1,15,0,3,0.009
+E1001781,Sales,Sales Executive,3,3,17,1,3,0.009
+E1001451,Research & Development,Laboratory Technician,4,4,22,1,4,0.009
+E1001940,Finance,Finance Manager,3,4,15,1,3,0.008
+E1001214,Sales,Sales Executive,3,3,17,0,3,0.008
+E100685,Development,Developer,3,3,18,0,3,0.008
+E1001262,Sales,Sales Executive,3,4,13,0,3,0.008
+E1001264,Sales,Sales Executive,3,2,16,0,3,0.008
+E1001951,Sales,Sales Executive,3,1,11,0,3,0.008
+E1002048,Research & Development,Research Director,3,3,12,0,3,0.008
+E1001895,Finance,Finance Manager,3,3,14,1,3,0.008
+E1001891,Sales,Sales Executive,3,4,13,0,3,0.008
+E1001292,Research & Development,Healthcare Representative,3,3,11,10,3,0.008
+E1002007,Research & Development,Research Scientist,3,2,12,0,3,0.008
+E1002022,Human Resources,Human Resources,4,3,21,0,4,0.008
+E1001949,Finance,Finance Manager,3,4,13,1,3,0.008
+E1002270,Research & Development,Laboratory Technician,3,4,19,0,3,0.008
+E1001948,Sales,Sales Executive,3,4,14,0,3,0.008
+E1001947,Sales,Sales Executive,3,1,13,0,3,0.008
+E1001236,Development,Developer,4,3,21,3,4,0.008
+E1001253,Sales,Sales Executive,3,3,16,1,3,0.008
+E1001049,Development,Senior Developer,3,4,11,0,3,0.008
+E100940,Development,Developer,3,3,17,0,3,0.008
+E100985,Sales,Sales Executive,4,4,22,1,4,0.008
+E1002190,Sales,Sales Executive,3,3,11,1,3,0.008
+E100454,Sales,Sales Executive,3,3,13,0,3,0.008
+E1001569,Research & Development,Research Scientist,3,3,14,2,3,0.008
+E100482,Sales,Sales Executive,3,3,13,0,3,0.008
+E100883,Development,Developer,4,4,21,5,4,0.008
+E100452,Sales,Sales Executive,3,3,11,2,3,0.008
+E100523,Development,Technical Lead,3,3,12,2,3,0.008
+E100519,Development,Developer,3,3,18,2,3,0.008
+E1001110,Development,Developer,3,1,14,0,3,0.008
+E1001647,Research & Development,Laboratory Technician,3,4,12,0,3,0.008
+E1001675,Research & Development,Manager R&D,4,3,21,0,4,0.008
+E100417,Development,Business Analyst,3,3,14,0,3,0.008
+E100421,Development,Business Analyst,3,4,11,2,3,0.008
+E100552,Development,Developer,3,3,19,2,3,0.008
+E1001670,Research & Development,Manager R&D,3,4,14,3,3,0.008
+E1001824,Research & Development,Research Scientist,4,4,20,0,4,0.008
+E1001478,Research & Development,Manager R&D,3,3,11,0,3,0.008
+E100395,Development,Developer,3,3,19,10,3,0.008
+E100339,Development,Developer,4,2,21,0,4,0.008
+E1001782,Research & Development,Laboratory Technician,3,3,11,0,3,0.008
+E100353,Development,Business Analyst,3,3,15,2,3,0.008
+E1001493,Research & Development,Manager R&D,4,4,22,2,4,0.008
+E100333,Development,Technical Architect,3,1,12,0,3,0.008
+E100343,Development,Technical Architect,3,3,13,2,3,0.008
+E100341,Development,Technical Architect,3,4,19,0,3,0.008
+E1001436,Research & Development,Laboratory Technician,3,2,11,0,3,0.008
+E1001791,Research & Development,Laboratory Technician,3,4,13,0,3,0.008
+E100657,Development,Developer,4,4,17,1,3,0.008
+E1001310,Research & Development,Manufacturing Director,3,3,13,4,3,0.008
+E100402,Development,Developer,3,3,13,9,3,0.008
+E100354,Development,Developer,4,4,22,1,4,0.008
+E1001471,Research & Development,Research Scientist,4,3,25,0,4,0.008
+E1002250,Human Resources,Human Resources,3,4,11,1,3,0.008
+E1002146,Research & Development,Research Scientist,4,4,24,1,4,0.008
+E100846,Sales,Manager,3,1,12,0,3,0.008
+E1001935,Sales,Sales Representative,3,3,19,2,3,0.008
+E100722,Development,Developer,3,3,15,13,3,0.008
+E100727,Sales,Sales Executive,3,3,13,1,3,0.008
+E100748,Human Resources,Human Resources,3,3,11,1,3,0.008
+E1001217,Development,Senior Developer,3,3,11,0,3,0.008
+E1001203,Sales,Sales Representative,3,4,18,1,3,0.008
+E1001086,Sales,Sales Executive,3,3,17,1,3,0.008
+E1001187,Human Resources,Human Resources,3,4,11,0,3,0.007
+E1001196,Development,Developer,3,4,14,0,3,0.007
+E100863,Sales,Sales Representative,3,4,14,1,3,0.007
+E1001182,Sales,Sales Executive,3,1,13,0,3,0.007
+E100865,Development,Developer,3,1,12,0,3,0.007
+E1001160,Development,Developer,3,4,12,0,3,0.007
+E1002005,Research & Development,Healthcare Representative,3,3,14,0,3,0.007
+E100778,Sales,Sales Executive,3,3,11,0,3,0.007
+E1002315,Sales,Sales Executive,3,3,11,0,3,0.007
+E100783,Development,Delivery Manager,3,3,13,1,3,0.007
+E1001085,Development,Developer,4,3,24,3,4,0.007
+E1001179,Development,Developer,3,4,18,3,3,0.007
+E1001147,Human Resources,Human Resources,3,2,13,0,3,0.007
+E1002265,Human Resources,Human Resources,3,3,14,1,3,0.007
+E1002243,Sales,Sales Executive,3,4,14,0,3,0.007
+E1002217,Research & Development,Research Scientist,3,1,14,0,3,0.007
+E1002222,Human Resources,Human Resources,3,1,12,0,3,0.007
+E1001237,Sales,Sales Representative,3,4,13,0,3,0.007
+E100803,Development,Developer,4,4,20,1,4,0.007
+E100695,Development,Technical Lead,3,3,17,3,3,0.007
+E100688,Sales,Manager,3,4,19,0,3,0.007
+E100708,Development,Developer,3,3,19,1,3,0.007
+E1001275,Development,Senior Developer,4,4,22,1,4,0.007
+E1001269,Development,Developer,4,3,22,1,4,0.007
+E1001975,Research & Development,Healthcare Representative,4,3,20,0,4,0.007
+E1002333,Sales,Sales Executive,3,4,13,2,3,0.007
+E1002343,Sales,Sales Executive,3,4,14,0,3,0.007
+E1001932,Finance,Finance Manager,4,4,21,1,4,0.007
+E1001931,Finance,Finance Manager,3,4,17,0,3,0.007
+E1001291,Research & Development,Senior Manager R&D,3,3,11,0,3,0.007
+E1001909,Finance,Finance Manager,3,3,17,0,3,0.007
+E100747,Sales,Sales Executive,3,4,14,0,3,0.007
+E100745,Sales,Sales Representative,3,2,19,0,3,0.007
+E100773,Development,Delivery Manager,3,4,16,1,3,0.007
+E1001289,Research & Development,Manufacturing Director,3,3,12,0,3,0.007
+E1002090,Sales,Sales Executive,3,3,18,2,3,0.007
+E1002036,Sales,Sales Executive,4,1,20,0,4,0.007
+E100770,Sales,Sales Executive,3,3,12,1,3,0.007
+E1001779,Research & Development,Manager R&D,3,4,16,1,3,0.007
+E1001415,Sales,Sales Executive,3,4,11,0,3,0.007
+E100350,Sales,Sales Executive,3,3,19,0,3,0.007
+E100318,Development,Technical Architect,3,4,13,1,3,0.007
+E100674,Development,Developer,3,3,11,1,3,0.007
+E1001775,Sales,Sales Executive,3,3,14,0,3,0.007
+E1001863,Sales,Sales Executive,3,2,13,0,3,0.007
+E100631,Development,Developer,3,3,11,0,3,0.007
+E1001410,Research & Development,Laboratory Technician,3,3,15,0,3,0.007
+E100671,Development,Developer,3,4,14,1,3,0.007
+E1001749,Research & Development,Laboratory Technician,3,3,14,0,3,0.007
+E1001755,Sales,Sales Executive,3,4,14,0,3,0.007
+E1001759,Sales,Sales Executive,3,1,12,0,3,0.007
+E1001490,Sales,Sales Executive,3,2,12,0,3,0.007
+E1001489,Sales,Sales Executive,3,3,19,0,3,0.007
+E1001481,Research & Development,Manager R&D,3,3,11,0,3,0.007
+E100560,Development,Technical Lead,3,2,19,0,3,0.007
+E100397,Development,Developer,4,3,22,11,4,0.007
+E1001657,Sales,Sales Representative,3,3,14,0,3,0.007
+E100382,Development,Developer,3,4,12,3,3,0.007
+E1001739,Human Resources,Human Resources,3,4,18,0,3,0.007
+E100581,Sales,Sales Executive,3,4,14,0,3,0.007
+E100577,Sales,Sales Executive,3,3,15,0,3,0.007
+E100571,Sales,Sales Executive,3,4,14,0,3,0.007
+E1001533,Research & Development,Research Director,3,3,14,0,3,0.007
+E1001528,Research & Development,Research Director,3,4,14,0,3,0.007
+E100553,Development,Technical Lead,3,4,15,1,3,0.007
+E100540,Development,Technical Lead,3,4,14,2,3,0.007
+E1001630,Human Resources,Manager,3,3,11,0,3,0.007
+E1001548,Research & Development,Research Scientist,4,4,22,0,4,0.007
+E1001674,Sales,Sales Executive,3,3,13,1,3,0.007
+E1001706,Sales,Sales Executive,3,4,14,0,3,0.007
+E1001665,Sales,Sales Executive,3,3,11,0,3,0.007
+E100534,Development,Technical Lead,3,4,17,1,3,0.007
+E1001642,Sales,Sales Representative,3,3,14,0,3,0.007
+E100509,Development,Developer,4,3,20,1,4,0.007
+E1001556,Research & Development,Healthcare Representative,3,4,15,15,3,0.007
+E100891,Sales,Manager,4,3,21,0,4,0.007
+E1001558,Sales,Manager,3,4,14,0,3,0.007
+E100516,Development,Technical Lead,3,4,12,7,3,0.007
+E1002183,Research & Development,Research Scientist,4,4,23,3,4,0.007
+E100944,Sales,Sales Representative,3,3,18,0,3,0.007
+E1001041,Development,Developer,4,4,20,2,4,0.007
+E1001069,Development,Developer,3,4,18,1,3,0.007
+E100941,Development,Senior Developer,3,4,13,4,3,0.007
+E1001000,Sales,Sales Executive,3,4,12,0,3,0.006
+E1002215,Research & Development,Manager R&D,3,4,16,0,3,0.006
+E1002239,Sales,Sales Representative,3,1,14,0,3,0.006
+E1002238,Research & Development,Manager R&D,3,3,12,0,3,0.006
+E100808,Development,Developer,3,4,12,3,3,0.006
+E1001225,Sales,Sales Executive,3,4,13,0,3,0.006
+E1002240,Sales,Sales Executive,3,3,11,0,3,0.006
+E1001229,Development,Senior Developer,4,3,20,0,4,0.006
+E1002193,Sales,Sales Executive,3,4,12,0,3,0.006
+E1002205,Sales,Sales Executive,3,3,12,0,3,0.006
+E1001200,Sales,Sales Representative,3,3,13,0,3,0.006
+E1001201,Data Science,Data Scientist,3,4,19,0,3,0.006
+E100775,Data Science,Data Scientist,3,4,11,0,3,0.006
+E100788,Development,Developer,4,3,22,0,4,0.006
+E1001534,Research & Development,Manager R&D,3,1,13,0,3,0.006
+E1001535,Research & Development,Research Scientist,3,3,12,0,3,0.006
+E100471,Development,Developer,4,4,20,2,4,0.006
+E100411,Human Resources,Human Resources,4,3,22,0,4,0.006
+E100492,Development,Technical Lead,4,2,20,0,4,0.006
+E100420,Sales,Sales Executive,3,3,11,0,3,0.006
+E100373,Development,Business Analyst,3,3,17,1,3,0.006
+E100538,Development,Developer,3,4,16,0,3,0.006
+E100539,Development,Developer,3,2,13,0,3,0.006
+E1001822,Research & Development,Healthcare Representative,3,3,13,0,3,0.006
+E100921,Development,Developer,4,4,21,0,4,0.006
+E1001021,Development,Developer,3,3,14,0,3,0.006
+E100511,Development,Technical Lead,3,3,16,1,3,0.006
+E100502,Development,Technical Lead,3,3,15,0,3,0.006
+E1001645,Research & Development,Manager R&D,3,4,16,0,3,0.006
+E1001823,Research & Development,Manufacturing Director,3,4,13,0,3,0.006
+E100357,Development,Developer,3,4,11,9,3,0.006
+E100364,Development,Business Analyst,3,2,17,0,3,0.006
+E100992,Sales,Sales Executive,4,4,20,0,4,0.006
+E1001641,Research & Development,Manufacturing Director,3,4,11,0,3,0.006
+E100729,Development,Delivery Manager,3,3,16,0,3,0.006
+E100738,Development,Delivery Manager,3,4,16,0,3,0.006
+E1001942,Finance,Finance Manager,4,4,20,0,4,0.006
+E1002050,Research & Development,Laboratory Technician,4,3,20,0,4,0.006
+E1002052,Sales,Sales Executive,3,4,14,0,3,0.006
+E1002060,Research & Development,Manager R&D,3,4,11,0,3,0.006
+E100760,Development,Developer,3,4,11,1,3,0.006
+E100757,Sales,Sales Executive,3,4,15,0,3,0.006
+E1001284,Research & Development,Senior Manager R&D,3,3,17,0,3,0.006
+E1001283,Development,Developer,3,4,18,1,3,0.006
+E1001877,Finance,Finance Manager,3,4,12,0,3,0.006
+E1002038,Research & Development,Laboratory Technician,3,3,14,0,3,0.006
+E1002023,Research & Development,Manager R&D,3,4,16,0,3,0.006
+E1002010,Sales,Sales Executive,3,3,12,0,3,0.006
+E100442,Development,Developer,3,3,19,4,3,0.006
+E100433,Development,Developer,4,1,22,0,4,0.006
+E100520,Development,Developer,3,3,14,0,3,0.006
+E100562,Development,Technical Lead,3,4,16,2,3,0.006
+E100945,Sales,Sales Representative,3,3,11,0,3,0.006
+E1002163,Research & Development,Research Scientist,4,4,22,0,4,0.006
+E1001142,Sales,Sales Executive,3,4,12,0,3,0.006
+E100856,Development,Developer,3,3,11,0,3,0.006
+E100826,Development,Developer,4,3,20,0,4,0.006
+E1002131,Sales,Sales Executive,3,4,13,0,3,0.006
+E1002252,Research & Development,Manager R&D,3,4,11,0,3,0.006
+E100828,Data Science,Data Scientist,3,3,14,0,3,0.006
+E1001111,Development,Developer,4,3,24,0,4,0.006
+E100979,Development,Senior Developer,3,4,11,1,3,0.006
+E100987,Sales,Sales Executive,4,4,20,0,4,0.006
+E1001107,Human Resources,Human Resources,3,3,13,0,3,0.006
+E1001095,Development,Developer,3,3,11,3,3,0.006
+E1001098,Development,Developer,3,3,11,3,3,0.006
+E1001102,Development,Senior Developer,4,3,24,0,4,0.006
+E1001128,Development,Developer,3,4,11,0,3,0.006
+E1002164,Research & Development,Manufacturing Director,3,4,11,0,3,0.006
+E1001090,Development,Senior Developer,3,3,11,0,3,0.006
+E1001725,Research & Development,Laboratory Technician,3,4,17,0,3,0.006
+E1001762,Research & Development,Manager R&D,3,3,14,0,3,0.006
+E100664,Development,Technical Lead,3,3,16,1,3,0.006
+E100655,Development,Technical Lead,4,4,23,0,4,0.006
+E1001308,Research & Development,Laboratory Technician,3,1,18,0,3,0.006
+E1001307,Sales,Manager,4,4,13,0,3,0.006
+E1001357,Research & Development,Senior Manager R&D,3,3,13,1,3,0.006
+E1001362,Research & Development,Senior Manager R&D,3,3,15,0,3,0.006
+E100627,Sales,Sales Executive,3,4,14,0,3,0.006
+E100582,Development,Technical Lead,3,4,16,3,3,0.006
+E1001660,Research & Development,Research Scientist,3,4,11,0,3,0.006
+E1001495,Research & Development,Manager R&D,3,4,11,0,3,0.006
+E100616,Development,Developer,3,3,13,0,3,0.006
+E1001426,Research & Development,Laboratory Technician,3,2,19,0,3,0.006
+E100618,Development,Technical Lead,3,3,14,0,3,0.006
+E100376,Development,Developer,4,3,23,1,4,0.006
+E1001723,Sales,Sales Executive,3,4,12,0,3,0.006
+E1002160,Sales,Sales Executive,3,3,13,1,3,0.006
+E1002128,Research & Development,Manager R&D,3,4,14,0,3,0.006
+E1001165,Data Science,Data Scientist,3,3,16,0,3,0.006
+E1001027,Sales,Sales Representative,3,3,11,0,3,0.006
+E1001173,Development,Senior Developer,3,4,19,0,3,0.006
+E1002331,Research & Development,Research Scientist,3,4,13,0,3,0.006
+E100707,Development,Developer,3,3,14,11,3,0.006
+E1001276,Development,Developer,3,3,13,1,3,0.006
+E1001905,Finance,Finance Manager,3,3,15,0,3,0.006
+E1001897,Finance,Finance Manager,3,4,11,0,3,0.006
+E100289,Development,Senior Developer,4,4,22,0,4,0.006
+E100335,Development,Developer,4,3,23,3,4,0.006
+E1001392,Sales,Sales Executive,3,4,17,0,3,0.006
+E1001340,Research & Development,Healthcare Representative,3,4,15,0,3,0.006
+E100715,Sales,Sales Executive,3,4,11,0,3,0.006
+E1001091,Development,Senior Developer,4,4,20,1,4,0.006
+E1001040,Development,Developer,3,3,11,1,3,0.005
+E1001053,Development,Developer,3,2,14,0,3,0.005
+E1001564,Research & Development,Laboratory Technician,3,4,11,0,3,0.005
+E100504,Development,Technical Lead,3,3,15,4,3,0.005
+E1001649,Sales,Sales Executive,4,4,20,0,4,0.005
+E1001559,Sales,Sales Executive,3,3,12,0,3,0.005
+E100412,Development,Developer,3,4,13,0,3,0.005
+E1001570,Research & Development,Research Scientist,3,2,16,0,3,0.005
+E1001679,Research & Development,Manufacturing Director,3,4,11,0,3,0.005
+E1001252,Sales,Sales Representative,3,3,15,0,3,0.005
+E1001223,Data Science,Data Scientist,3,4,17,0,3,0.005
+E100796,Development,Delivery Manager,3,3,12,0,3,0.005
+E100799,Development,Developer,4,2,22,0,4,0.005
+E100372,Development,Business Analyst,4,3,23,0,4,0.005
+E100486,Development,Technical Lead,3,4,13,0,3,0.005
+E100478,Development,Developer,4,3,21,1,4,0.005
+E100475,Development,Developer,3,4,14,2,3,0.005
+E100916,Development,Senior Developer,3,4,17,0,3,0.005
+E1001520,Research & Development,Research Director,3,1,17,0,3,0.005
+E100391,Sales,Sales Representative,3,3,13,0,3,0.005
+E1001760,Research & Development,Research Scientist,3,3,13,0,3,0.005
+E1001432,Research & Development,Research Scientist,3,3,14,0,3,0.005
+E100612,Data Science,Data Scientist,3,3,16,0,3,0.005
+E100310,Development,Senior Developer,3,3,11,4,3,0.005
+E1001513,Research & Development,Manager R&D,3,4,14,0,3,0.005
+E100578,Development,Developer,3,3,14,1,3,0.005
+E100586,Development,Developer,3,3,12,1,3,0.005
+E1001882,Finance,Finance Manager,3,3,17,0,3,0.005
+E100302,Development,Developer,3,4,11,1,3,0.005
+E100548,Development,Developer,3,3,16,0,3,0.005
+E100443,Development,Developer,3,4,12,15,3,0.005
+E1002085,Research & Development,Laboratory Technician,3,4,17,0,3,0.005
+E1001618,Research & Development,Research Scientist,3,3,16,0,3,0.005
+E1001484,Research & Development,Research Scientist,3,4,13,0,3,0.005
+E100527,Development,Developer,3,3,15,0,3,0.005
+E100528,Development,Technical Lead,3,4,11,1,3,0.005
+E100536,Development,Developer,3,4,18,1,3,0.005
+E100752,Development,Delivery Manager,3,3,13,6,3,0.005
+E1001290,Research & Development,Research Scientist,3,2,15,0,3,0.005
+E100445,Sales,Sales Representative,3,4,19,0,3,0.005
+E1002045,Research & Development,Research Scientist,3,3,16,0,3,0.005
+E100723,Sales,Sales Executive,3,4,18,0,3,0.005
+E1001529,Research & Development,Manager R&D,3,3,12,0,3,0.005
+E100375,Development,Developer,3,2,12,0,3,0.005
+E1001869,Sales,Manager,3,3,16,0,3,0.005
+E1001330,Research & Development,Laboratory Technician,3,1,14,0,3,0.005
+E1001403,Sales,Sales Executive,3,4,16,0,3,0.005
+E100673,Development,Technical Lead,4,4,21,0,4,0.005
+E1001355,Sales,Sales Representative,3,4,14,0,3,0.005
+E100686,Development,Technical Lead,3,4,18,1,3,0.005
+E1002338,Sales,Sales Representative,3,4,18,0,3,0.005
+E100709,Development,Technical Lead,3,3,12,0,3,0.005
+E1001274,Development,Developer,3,4,14,0,3,0.005
+E100291,Development,Senior Developer,3,3,13,7,3,0.005
+E100329,Development,Developer,3,2,14,0,3,0.005
+E100300,Development,Senior Developer,3,4,13,0,3,0.005
+E1001902,Sales,Sales Representative,3,2,12,0,3,0.005
+E1001829,Research & Development,Laboratory Technician,3,3,14,0,3,0.005
+E1001281,Sales,Sales Executive,3,4,17,0,3,0.005
+E1001958,Sales,Sales Representative,3,4,11,0,3,0.005
+E1001965,Finance,Finance Manager,3,4,19,0,3,0.005
+E1001391,Sales,Sales Executive,3,4,14,0,3,0.005
+E100324,Development,Technical Architect,3,4,12,1,3,0.005
+E1001393,Research & Development,Research Scientist,3,3,17,0,3,0.005
+E100683,Development,Developer,3,3,13,0,3,0.005
+E1001354,Sales,Sales Executive,3,3,13,0,3,0.005
+E100855,Development,Developer,3,4,15,4,3,0.005
+E1002154,Sales,Sales Representative,3,2,13,0,3,0.005
+E100821,Development,Developer,3,4,14,0,3,0.005
+E1001126,Development,Developer,3,3,14,1,3,0.005
+E1001122,Development,Developer,3,3,16,0,3,0.005
+E100833,Sales,Sales Representative,3,4,16,1,3,0.005
+E1002120,Human Resources,Human Resources,3,4,17,0,3,0.005
+E1001134,Development,Senior Developer,3,3,11,1,3,0.005
+E100880,Development,Developer,3,3,11,0,3,0.005
+E100893,Sales,Sales Executive,3,3,15,0,3,0.005
+E1001130,Development,Developer,3,4,12,2,3,0.005
+E1001077,Development,Developer,3,4,11,1,3,0.004
+E1001080,Development,Developer,3,4,13,4,3,0.004
+E100934,Sales,Sales Executive,3,4,11,1,3,0.004
+E100937,Development,Developer,3,3,13,2,3,0.004
+E100939,Development,Developer,3,2,14,0,3,0.004
+E100964,Development,Developer,3,3,13,0,3,0.004
+E100967,Development,Developer,3,3,15,7,3,0.004
+E1001093,Development,Developer,3,3,16,0,3,0.004
+E100892,Sales,Sales Representative,3,2,14,0,3,0.004
+E1001101,Development,Developer,3,3,15,0,3,0.004
+E1001105,Development,Developer,3,4,13,0,3,0.004
+E1001112,Development,Developer,3,2,14,0,3,0.004
+E1002138,Research & Development,Manager R&D,3,4,13,0,3,0.004
+E100908,Development,Developer,3,4,12,6,3,0.004
+E1001254,Development,Senior Developer,3,4,15,7,3,0.004
+E1002153,Sales,Sales Representative,3,2,19,0,3,0.004
+E1001468,Sales,Sales Representative,3,3,12,0,3,0.004
+E1001770,Sales,Sales Representative,3,4,13,0,3,0.004
+E100852,Development,Developer,3,1,13,0,3,0.004
+E100834,Data Science,Data Scientist,4,4,23,0,4,0.004
+E100857,Development,Senior Developer,3,4,12,5,3,0.004
+E1001159,Development,Developer,3,4,19,7,3,0.004
+E1001146,Sales,Sales Executive,3,4,19,0,3,0.004
+E1001143,Development,Developer,3,3,12,1,3,0.004
+E1001082,Development,Developer,3,3,11,1,3,0.004
+E100689,Sales,Sales Representative,3,4,12,0,3,0.004
+E100701,Development,Developer,3,3,12,0,3,0.004
+E1001178,Sales,Sales Representative,3,3,15,0,3,0.004
+E100706,Development,Developer,3,4,11,8,3,0.004
+E1001280,Development,Developer,3,4,15,0,3,0.004
+E1001272,Development,Developer,4,4,20,0,4,0.004
+E100712,Development,Technical Lead,3,3,12,1,3,0.004
+E100629,Development,Developer,3,4,11,7,3,0.004
+E1001793,Research & Development,Healthcare Representative,3,4,17,0,3,0.004
+E1001773,Sales,Sales Representative,3,4,13,0,3,0.004
+E1001970,Finance,Finance Manager,3,4,12,0,3,0.004
+E100288,Development,Senior Developer,4,3,20,0,4,0.004
+E100297,Development,Developer,3,3,14,0,3,0.004
+E100332,Development,Technical Architect,3,4,13,0,3,0.004
+E100348,Development,Technical Architect,3,3,13,2,3,0.004
+E100576,Sales,Manager,3,4,18,0,3,0.004
+E1001736,Research & Development,Laboratory Technician,4,1,23,0,4,0.004
+E1001334,Sales,Sales Representative,4,4,22,0,4,0.004
+E100669,Development,Technical Lead,3,4,12,5,3,0.004
+E100652,Development,Developer,3,4,14,4,3,0.004
+E100650,Development,Technical Lead,3,3,14,4,3,0.004
+E100644,Sales,Sales Executive,3,1,19,0,3,0.004
+E100640,Development,Developer,3,4,13,0,3,0.004
+E100786,Sales,Sales Representative,3,3,18,0,3,0.004
+E100792,Development,Developer,4,3,23,0,4,0.004
+E100793,Development,Delivery Manager,3,4,12,12,3,0.004
+E100537,Development,Developer,3,3,14,11,3,0.004
+E100549,Development,Technical Lead,3,4,14,0,3,0.004
+E1001820,Research & Development,Manager R&D,3,3,14,0,3,0.004
+E100361,Development,Business Analyst,3,3,13,12,3,0.004
+E100368,Development,Developer,3,4,17,0,3,0.004
+E100593,Development,Developer,3,3,13,0,3,0.004
+E100597,Development,Developer,3,3,11,11,3,0.004
+E100617,Development,Developer,3,4,13,5,3,0.004
+E1001434,Research & Development,Laboratory Technician,3,3,12,0,3,0.004
+E1001847,Research & Development,Laboratory Technician,3,1,12,0,3,0.004
+E100719,Development,Delivery Manager,3,4,13,1,3,0.004
+E100730,Development,Developer,3,4,14,9,3,0.004
+E100739,Development,Developer,3,3,14,2,3,0.004
+E100429,Development,Business Analyst,3,3,15,0,3,0.004
+E100740,Development,Delivery Manager,3,3,14,4,3,0.004
+E100742,Development,Delivery Manager,3,3,13,0,3,0.004
+E100744,Development,Developer,3,4,15,1,3,0.004
+E100746,Development,Developer,3,1,14,0,3,0.004
+E100761,Development,Delivery Manager,3,4,13,1,3,0.004
+E100774,Development,Developer,3,3,19,0,3,0.004
+E1002061,Research & Development,Manager R&D,3,3,17,0,3,0.004
+E100517,Development,Developer,3,3,11,6,3,0.004
+E1002002,Research & Development,Manufacturing Director,3,2,16,0,3,0.004
+E1002277,Research & Development,Research Scientist,4,4,22,1,4,0.004
+E1002301,Sales,Sales Representative,3,4,19,1,3,0.004
+E100431,Development,Business Analyst,3,3,12,5,3,0.004
+E100531,Development,Developer,3,4,14,9,3,0.004
+E100530,Development,Developer,3,4,13,1,3,0.004
+E100525,Development,Developer,3,4,15,1,3,0.004
+E1001235,Development,Developer,3,4,13,2,3,0.004
+E1001238,Development,Developer,3,1,19,0,3,0.004
+E1001250,Development,Developer,3,3,12,0,3,0.004
+E100814,Development,Senior Developer,3,3,12,1,3,0.004
+E1001211,Development,Developer,3,2,19,0,3,0.004
+E1001218,Development,Senior Developer,3,3,13,0,3,0.004
+E1001228,Development,Senior Developer,3,4,13,5,3,0.004
+E1001230,Sales,Sales Representative,3,3,18,0,3,0.004
+E100912,Data Science,Data Scientist,3,3,19,0,3,0.004
+E100993,Development,Senior Developer,3,4,17,0,3,0.004
+E100994,Development,Senior Developer,3,4,11,3,3,0.004
+E100470,Development,Technical Lead,3,3,13,0,3,0.004
+E100479,Development,Technical Lead,3,2,14,0,3,0.004
+E1001536,Research & Development,Laboratory Technician,3,4,11,0,3,0.004
+E1001538,Research & Development,Manager R&D,3,3,11,1,3,0.004
+E100422,Development,Developer,3,2,15,0,3,0.004
+E1002244,Research & Development,Manager R&D,4,4,24,0,4,0.004
+E1002221,Sales,Sales Executive,3,2,12,0,3,0.004
+E1001058,Development,Developer,3,4,13,7,3,0.004
+E1002216,Sales,Manager,3,4,13,0,3,0.004
+E1002143,Human Resources,Human Resources,3,4,11,0,3,0.003
+E100864,Development,Senior Developer,3,4,12,0,3,0.003
+E100958,Development,Developer,4,3,20,0,4,0.003
+E1002125,Research & Development,Research Scientist,4,4,22,0,4,0.003
+E100625,Development,Developer,3,4,13,0,3,0.003
+E1001453,Research & Development,Manager R&D,3,3,11,0,3,0.003
+E100331,Development,Developer,3,3,12,0,3,0.003
+E1002156,Research & Development,Research Scientist,4,4,23,0,4,0.003
+E100448,Development,Developer,3,3,14,5,3,0.003
+E100772,Sales,Sales Representative,3,3,15,0,3,0.003
+E100317,Development,Developer,3,3,11,0,3,0.003
+E1002213,Sales,Sales Executive,3,4,16,0,3,0.003

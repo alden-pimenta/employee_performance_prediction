@@ -1,0 +1,13 @@
+{
+  "selected_model": "Gradient Boosting",
+  "test_accuracy": 0.929,
+  "test_macro_f1": 0.891,
+  "hiring_model_accuracy": 0.5167,
+  "hiring_model_macro_f1": 0.3804,
+  "baseline_accuracy": 0.7292,
+  "top3": [
+    "EmpEnvironmentSatisfaction",
+    "EmpLastSalaryHikePercent",
+    "YearsSinceLastPromotion"
+  ]
+}
